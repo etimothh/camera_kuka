@@ -10,6 +10,16 @@
 - [ ] Test on School Network
 - [ ] Write Docs
 
+## Image :
+
+![alt text](../ros2_ws/src/cam_kuka/src/diagram/image_receiver_trigger_server_diagram.png)
+
+## Point Cloud : 
+
+![alt text](../ros2_ws/src/cam_kuka/src/diagram/diagram_pcl.png)
+
+
+
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠀⠀⠀⠀⠑⢄⣠⠾⠁⣀⣄⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀ 
