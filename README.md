@@ -11,12 +11,12 @@
 - [ ] Write Docs
 
 ## Image :
-
-![alt text](../ros2_ws/src/cam_kuka/src/diagram/image_receiver_trigger_server_diagram.png)
+![alt text](Media/diagram_pcl.png)
 
 ## Point Cloud : 
+![alt text](Media/diagram_pcl.png)
 
-![alt text](../ros2_ws/src/cam_kuka/src/diagram/diagram_pcl.png)
+
 
 
 
